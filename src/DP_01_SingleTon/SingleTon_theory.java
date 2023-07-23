@@ -1,7 +1,7 @@
 package DP_01_SingleTon;
 
 /** Sington Pattern*/
-public class SingleTon_Theory {
+public class SingleTon_theory {
 	/**
 	 * 싱글톤 패턴이란 단 하나의 유일한 객체를 만들기 위해 존재
 	 * 객체가 리소스를 많이 차지하는 역할을 하는 무거운 클래스일때 적합(메모리 절약을 위해 )
